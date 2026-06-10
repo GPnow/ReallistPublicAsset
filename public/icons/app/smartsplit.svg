@@ -1,66 +1,39 @@
 <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M12 32C12 27.5817 15.5817 24 20 24H30.5C34.0899 24 37 21.0899 37 17.5V15" stroke="url(#paint0_linear_smartsplit)" stroke-width="4.5" stroke-linecap="round"/>
-<path d="M12 32C12 36.4183 15.5817 40 20 40H30.5C34.0899 40 37 42.9101 37 46.5V49" stroke="url(#paint1_linear_smartsplit)" stroke-width="4.5" stroke-linecap="round"/>
-<path d="M20 32H39" stroke="url(#paint2_linear_smartsplit)" stroke-width="4.5" stroke-linecap="round"/>
-<circle cx="15" cy="32" r="8.5" fill="white" stroke="url(#paint3_linear_smartsplit)" stroke-width="4"/>
-<circle cx="39" cy="32" r="11" fill="white" stroke="url(#paint4_linear_smartsplit)" stroke-width="4"/>
-<path d="M34.5 32H43.5" stroke="url(#paint5_linear_smartsplit)" stroke-width="3" stroke-linecap="round"/>
-<circle cx="39" cy="27.5" r="1.8" fill="#2D76E0"/>
-<circle cx="39" cy="36.5" r="1.8" fill="#10C8F0"/>
-<circle cx="48" cy="14" r="8.5" fill="white" stroke="url(#paint6_linear_smartsplit)" stroke-width="4"/>
-<circle cx="48" cy="50" r="8.5" fill="white" stroke="url(#paint7_linear_smartsplit)" stroke-width="4"/>
-<path d="M46.3 14H50" stroke="url(#paint8_linear_smartsplit)" stroke-width="2.8" stroke-linecap="round"/>
-<path d="M46.3 50H50" stroke="url(#paint9_linear_smartsplit)" stroke-width="2.8" stroke-linecap="round"/>
-<path d="M49.5 31.5L54.5 31.5" stroke="url(#paint10_linear_smartsplit)" stroke-width="4" stroke-linecap="round"/>
-<path d="M53 28.5L56 31.5L53 34.5" stroke="url(#paint11_linear_smartsplit)" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
-<defs>
-<linearGradient id="paint0_linear_smartsplit" x1="6.677" y1="23.5" x2="42.773" y2="23.5" gradientUnits="userSpaceOnUse">
-<stop stop-color="#10C8F0"/>
-<stop offset="1" stop-color="#2D76E0"/>
-</linearGradient>
-<linearGradient id="paint1_linear_smartsplit" x1="6.677" y1="40.5" x2="42.773" y2="40.5" gradientUnits="userSpaceOnUse">
-<stop stop-color="#10C8F0"/>
-<stop offset="1" stop-color="#2D76E0"/>
-</linearGradient>
-<linearGradient id="paint2_linear_smartsplit" x1="15.955" y1="32.5" x2="43.222" y2="32.5" gradientUnits="userSpaceOnUse">
-<stop stop-color="#10C8F0"/>
-<stop offset="1" stop-color="#2D76E0"/>
-</linearGradient>
-<linearGradient id="paint3_linear_smartsplit" x1="4" y1="32" x2="26" y2="32" gradientUnits="userSpaceOnUse">
-<stop stop-color="#10C8F0"/>
-<stop offset="1" stop-color="#2D76E0"/>
-</linearGradient>
-<linearGradient id="paint4_linear_smartsplit" x1="26" y1="32" x2="52" y2="32" gradientUnits="userSpaceOnUse">
-<stop stop-color="#10C8F0"/>
-<stop offset="1" stop-color="#2D76E0"/>
-</linearGradient>
-<linearGradient id="paint5_linear_smartsplit" x1="32.584" y1="32.5" x2="45.499" y2="32.5" gradientUnits="userSpaceOnUse">
-<stop stop-color="#10C8F0"/>
-<stop offset="1" stop-color="#2D76E0"/>
-</linearGradient>
-<linearGradient id="paint6_linear_smartsplit" x1="37" y1="14" x2="59" y2="14" gradientUnits="userSpaceOnUse">
-<stop stop-color="#10C8F0"/>
-<stop offset="1" stop-color="#2D76E0"/>
-</linearGradient>
-<linearGradient id="paint7_linear_smartsplit" x1="37" y1="50" x2="59" y2="50" gradientUnits="userSpaceOnUse">
-<stop stop-color="#10C8F0"/>
-<stop offset="1" stop-color="#2D76E0"/>
-</linearGradient>
-<linearGradient id="paint8_linear_smartsplit" x1="45.512" y1="14.5" x2="50.822" y2="14.5" gradientUnits="userSpaceOnUse">
-<stop stop-color="#10C8F0"/>
-<stop offset="1" stop-color="#2D76E0"/>
-</linearGradient>
-<linearGradient id="paint9_linear_smartsplit" x1="45.512" y1="50.5" x2="50.822" y2="50.5" gradientUnits="userSpaceOnUse">
-<stop stop-color="#10C8F0"/>
-<stop offset="1" stop-color="#2D76E0"/>
-</linearGradient>
-<linearGradient id="paint10_linear_smartsplit" x1="48.436" y1="32" x2="55.611" y2="32" gradientUnits="userSpaceOnUse">
-<stop stop-color="#10C8F0"/>
-<stop offset="1" stop-color="#2D76E0"/>
-</linearGradient>
-<linearGradient id="paint11_linear_smartsplit" x1="52.361" y1="31.5" x2="56.666" y2="31.5" gradientUnits="userSpaceOnUse">
-<stop stop-color="#10C8F0"/>
-<stop offset="1" stop-color="#2D76E0"/>
-</linearGradient>
-</defs>
+  <path d="M15 32H29" stroke="url(#smart_split_line_a)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M29 32C38 32 38 18 49 18" stroke="url(#smart_split_line_b)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M29 32C38 32 38 46 49 46" stroke="url(#smart_split_line_c)" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="14" cy="32" r="7" fill="#FFFFFF" stroke="url(#smart_split_node_a)" stroke-width="4"/>
+  <circle cx="30" cy="32" r="5.5" fill="url(#smart_split_center)"/>
+  <circle cx="50" cy="18" r="7" fill="#FFFFFF" stroke="url(#smart_split_node_b)" stroke-width="4"/>
+  <circle cx="50" cy="46" r="7" fill="#FFFFFF" stroke="url(#smart_split_node_c)" stroke-width="4"/>
+  <defs>
+    <linearGradient id="smart_split_line_a" x1="8" y1="32" x2="36" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10C8F0"/>
+      <stop offset="1" stop-color="#2D76E0"/>
+    </linearGradient>
+    <linearGradient id="smart_split_line_b" x1="27" y1="29" x2="54" y2="17" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10C8F0"/>
+      <stop offset="1" stop-color="#2D76E0"/>
+    </linearGradient>
+    <linearGradient id="smart_split_line_c" x1="27" y1="35" x2="54" y2="47" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10C8F0"/>
+      <stop offset="1" stop-color="#2D76E0"/>
+    </linearGradient>
+    <linearGradient id="smart_split_node_a" x1="5" y1="32" x2="23" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10C8F0"/>
+      <stop offset="1" stop-color="#2D76E0"/>
+    </linearGradient>
+    <linearGradient id="smart_split_node_b" x1="41" y1="18" x2="59" y2="18" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10C8F0"/>
+      <stop offset="1" stop-color="#2D76E0"/>
+    </linearGradient>
+    <linearGradient id="smart_split_node_c" x1="41" y1="46" x2="59" y2="46" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10C8F0"/>
+      <stop offset="1" stop-color="#2D76E0"/>
+    </linearGradient>
+    <linearGradient id="smart_split_center" x1="24.5" y1="32" x2="35.5" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10C8F0"/>
+      <stop offset="1" stop-color="#2D76E0"/>
+    </linearGradient>
+  </defs>
 </svg>

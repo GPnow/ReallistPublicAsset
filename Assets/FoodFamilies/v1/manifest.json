@@ -1,0 +1,1438 @@
+{
+  "version": 1,
+  "catalogKey": "food_v1",
+  "generatedFrom": "RealList food-image family pack reviewed 2026-08-18",
+  "families": [
+    {
+      "familyKey": "biryani",
+      "file": "images/biryani.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "82a5362c1fb71f485ce530e48beaa951c64cdebbbf8ef8d3c6eef2b06281a999",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bengali_style_chicken_biryani,_Kolkata_-_West_Bengal_-_DSC_0020.jpg",
+      "artist": "TAPAS KUMAR HALDER",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "rice",
+        "biryani"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "burger",
+      "file": "images/burger.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "8e2c60a8f491bf5ae79a8c99bcc95c52dee56e2c82a66551a2653b55cdea88cf",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Close-up_burger_and_fries.jpg",
+      "artist": "slsmpl",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "fast_food",
+        "burger"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "cake_pastry_brownie",
+      "file": "images/cake_pastry_brownie.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "1c585aebba92e898c8f9f588291d291d29dad7b9bf87d4e30ee9af5a02f46efc",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg",
+      "artist": "Daria Yakovleva Minor edits made by Subsidiary account",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "desserts",
+        "cake_pastry_brownie"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "chaat",
+      "file": "images/chaat.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "ac85cd610f48f24a2ec8691dcb1153d46a79d39fd87a3e37e3cb344d52c3698e",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Papri_chaat_in_chaat_buzz.jpg",
+      "artist": "omar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "street_snacks",
+        "chaat"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "chicken_curry",
+      "file": "images/chicken_curry.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "f3bcb322b5da67bb7cf57b92f8e8a537ac1f28345426051cbc250b0e1825622d",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chicken_Curry_North_Indian_Style.jpg",
+      "artist": "Deepti135",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "curries",
+        "chicken_curry"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "chicken_tikka_kebab",
+      "file": "images/chicken_tikka_kebab.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "ff78ebd6d0641dd75befea28357a96cf2d3b0438bff587bc4cfa6b3b55ffdf6a",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chicken_Tikka_Kebab.jpg",
+      "artist": "Sumit Surai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "grills_kebabs",
+        "chicken_tikka_kebab"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "chicken_wings_lollipop",
+      "file": "images/chicken_wings_lollipop.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "3e56610611075d01fc3cde5153e89d09fa754e4f92c1924315574fe732df3a78",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chicken_wings_at_home.jpg",
+      "artist": "JIP",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "grills_kebabs",
+        "chicken_wings_lollipop"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "chilli_chicken_dry",
+      "file": "images/chilli_chicken_dry.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "22fadda7bb95c91f3491fa971c20d1e9ed2467ab78c7ec7444052f95ef6d2b82",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Dry_Chilli_Chicken_(15912782091).jpg",
+      "artist": "Yummy O Yummy",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "indo_chinese",
+        "chilli_chicken_dry"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "chilli_mushroom",
+      "file": "images/chilli_mushroom.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "0dd08968a1836706960482c55a4dde842e3bb70b77805ede552ca7c44a2e678c",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mushroom_Manchurian_dry.jpg",
+      "artist": "Anuradhayeluri",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "indo_chinese",
+        "chilli_mushroom"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "chilli_paneer",
+      "file": "images/chilli_paneer.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "dc47de550cd6818abd51f51b40a1a234997f6361960a5f7bbe895c102c640ec7",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Paneer_Chilli_Semi_Gravy.jpg",
+      "artist": "Mrudit161187",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "indo_chinese",
+        "chilli_paneer"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "chilli_potato",
+      "file": "images/chilli_potato.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "17cef0fa78956b638d1787e5656e11bdea90c054a7aa4e4a14057f1e9ee91cd6",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Honey_Chilli_potato.jpg",
+      "artist": "Simranjeet Sidhu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "indo_chinese",
+        "chilli_potato"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "chole_chana",
+      "file": "images/chole_chana.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "75cee313b4bf0125fdfe2b7b68aded814bee9baa1f1a5bc0cf17c38a4f361505",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chana_Masala_-_Mohammed_-_Spice_Of_Life_2024-05-27.jpg",
+      "artist": "Andy Li",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "curries",
+        "chole_chana"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "cold_coffee_frappe",
+      "file": "images/cold_coffee_frappe.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "7f48e41c794a5a2dfb5fc6023522126bedd38cb073c76a24fb15734b112c833d",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Iced_B%E1%BA%A1c_X%E1%BB%89u_served_in_tall_glass_on_the_table_in_tha_cafe,_Danang_city,_2023.jpg",
+      "artist": "Klientos",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "drinks",
+        "cold_coffee_frappe"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "cold_drink_water",
+      "file": "images/cold_drink_water.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "c16ac1f37917ec2cd118d0d20f9a314d53c71e0a45f39b16be300999dea967bc",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Glass_cola.jpg",
+      "artist": "pic_p_ter",
+      "license": "Public domain",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "drinks",
+        "cold_drink_water"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "crispy_corn",
+      "file": "images/crispy_corn.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "72c435e8dc8b93cceb477e36a1f1372ab62a351a625f62ec2c729c31ca4ee440",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Crispy_corn_made_by_me.jpg",
+      "artist": "YKanchan07",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "indo_chinese",
+        "crispy_corn"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "dal",
+      "file": "images/dal.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "515d988d231b1c4e879184a2fd001e7f6104ac3b1d1a7931650c38a2e389f230",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Dal_Tadka_01_(36779549481).jpg",
+      "artist": "Bharat Mirchandani from Mumbai, India",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "curries",
+        "dal"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "dhokla_fafda",
+      "file": "images/dhokla_fafda.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "29ff01d7dbbead0285be526fe7afb3ae9c2a9bdc3c5240ec33ef427902b0cba3",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Gujarati_snake_-_Dhokla.jpg",
+      "artist": "Heenah",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "street_snacks",
+        "dhokla_fafda"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "dosa",
+      "file": "images/dosa.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "3b10005bbe195adf764684030cf23a04686b1775aee3c5f3f8da1509d02a33fd",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Masala_dosa_01.jpg",
+      "artist": "Marajozkee",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "breakfast",
+        "dosa"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "egg_curry_bhurji",
+      "file": "images/egg_curry_bhurji.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "d2db00bb8487bf8729b5885fb2dda54ba78082dd338d584100cf2d6bc44ae29c",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Spicy_Anda_Curry.jpg",
+      "artist": "https://onlybestrecipes.com/egg-curry-recipeegg-curry-recipe/",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "curries",
+        "egg_curry_bhurji"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "egg_dishes",
+      "file": "images/egg_dishes.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "de54d86a0360de2d9fafd79e799a506eeeb33681e0274ffde11c4d5e833d9986",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Masala_omelette_with_bread_toasties.jpg",
+      "artist": "Lillottama",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "proteins",
+        "egg_dishes"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "fish_curry",
+      "file": "images/fish_curry.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "eacb01ba705e029b17898eab087deb9a6484c391e9b0058b9c75d857292ca02d",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:North_Indian_Fish_Curry_(Cat_Fish).jpg",
+      "artist": "Seetrw",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "curries",
+        "fish_curry"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "fish_fry",
+      "file": "images/fish_fry.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "9387b460e92c66953f3826b451851e0cd4b8874a389c4b4082c278ce0b40021c",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:South-Indian_Masala_Fish_Fry.jpg",
+      "artist": "Udaykumar236",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "grills_kebabs",
+        "fish_fry"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "fried_chicken_snacks",
+      "file": "images/fried_chicken_snacks.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "54fda39faac772403037355982fef20f321e03a31160a8de5e7459febf49d791",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fried_chicken_pieces_coated_in_sauce_with_sesame_seeds_2025.jpg",
+      "artist": "Faisal Ahammad",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "grills_kebabs",
+        "fried_chicken_snacks"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "fried_rice",
+      "file": "images/fried_rice.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "b63fc7d7eaedb3c8ade41b61efc5997726ed89f8eb5ce08af26ccd4bb3bbe0fb",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Vegetable_Fried_Rice_-_PIFSPL_Food_Talk_-_Kolkata_2015-11-01_6815.JPG",
+      "artist": "Biswarup Ganguly",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "rice",
+        "fried_rice"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "fries",
+      "file": "images/fries.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "69c197255eceb0d27ee0839e1b607223238a61d5e58ae7db4b628e229696d4f2",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:French_fries_3.jpg",
+      "artist": "Sri2161k",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "street_snacks",
+        "fries"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "garlic_bread",
+      "file": "images/garlic_bread.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "5d92deeb47428c2c9279ddfecec01ca1a4f37d7b8ed896cd8918cea378796ebc",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Garlic_bread_-_on_plate,_ready_to_eat.jpg",
+      "artist": "Infrogmation of New Orleans",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "fast_food",
+        "garlic_bread"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "hot_beverage",
+      "file": "images/hot_beverage.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "36daeca6ab099d8deb3edf6a62f0bbe3f7118f12404b3e70a1b14b532d10e70c",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Dark_Hot_Chocolate,_San_Churro_Leederville,_2026_(01).jpg",
+      "artist": "Bahnfrend",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "drinks",
+        "hot_beverage"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "idli",
+      "file": "images/idli.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "8f05895dd7d79e4a6ffa29c7a6f2725b74721dd2981f4aa2c3e97e001f3040f5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Idli_Sambar-Noida-UP-SP004.jpg",
+      "artist": "Sutapa Pal",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "breakfast",
+        "idli"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "indian_sweets",
+      "file": "images/indian_sweets.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "4bb898619082681c99032cd24dfa2fa8e37949689f5389558221a4b6b1af00e5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:A_tray_full_of_Indian_sweets_mithai_desserts_c.jpg",
+      "artist": "DDohler",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "desserts",
+        "indian_sweets"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "juice_sorbet",
+      "file": "images/juice_sorbet.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "fbe1074b9e68a6819f7bacbe0830b3162edaa56a3e02279ad2a417f76ac51ce6",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:DSCF1010_A_vendor_prepares_colorful_fresh_fruit_drinks_and_juices_at_a_busy_outdoor_market_stall_with_jars_of_sliced_fruit_and_containers_of_vibrant_beverages_lined_up_on_the_counter.jpg",
+      "artist": "PattayaPatrol",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "drinks",
+        "juice_sorbet"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "kulcha",
+      "file": "images/kulcha.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "caab18fe07013adbc8dba6e651477d7fd5ea10b1d3a89761b2bba12360df4f2f",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Amritsari_kulcha_chana.jpg",
+      "artist": "LittleT889",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "breads",
+        "kulcha"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "kulfi_icecream",
+      "file": "images/kulfi_icecream.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "c9df6432cb1045857fe80a8dfbf1931e0f179829df8925eacc2af9eacd2edd4c",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kulfi_ice-cream.jpg",
+      "artist": "Shreya13jain",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "desserts",
+        "kulfi_icecream"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "lassi_chaas",
+      "file": "images/lassi_chaas.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "74c582bc15e55804916b6b3eaf70460820e8ec56020f6f84fe8024d0b4316ff1",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Summer_Special_Rose_Lassi.jpg",
+      "artist": "Babita Biswas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "drinks",
+        "lassi_chaas"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "maggi",
+      "file": "images/maggi.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "7deada4c96e99d60c8ebe69d9706fd9c914a7bc4e78ecee9c5d4885ae68f602b",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:A_full_plate_of_Indian_masala_noodles_made_at_home.jpg",
+      "artist": "Billjones94",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "street_snacks",
+        "maggi"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "meal_bowl",
+      "file": "images/meal_bowl.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "3db8a2d96ed4c37fb9299d6bbaa26d1ee0f0def7ea8b0b18b925709738cff8a2",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Traditional_Indian_meal.jpg",
+      "artist": "ᱤᱧ ᱢᱟᱛᱟᱞ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "meals",
+        "meal_bowl"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "milkshake",
+      "file": "images/milkshake.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "514d13964aa2131eebc9aeb5f3db39bcb6ec50a3d96fa84454148a4fb374739d",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:GLASS_OF_HAPPINESS.jpg",
+      "artist": "Elakkiya Loganayaki",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "drinks",
+        "milkshake"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "mocktail_mojito",
+      "file": "images/mocktail_mojito.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "07e57e1e197ce5c763e9f1f33641395d2d99bd6fd8c6062f593da44d6d63813a",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:LemonMint_Mojito.png",
+      "artist": "Priya lucy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "drinks",
+        "mocktail_mojito"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "momos",
+      "file": "images/momos.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "659a5ef0255f2ac54e127da3c05b372a5fa86ace4560b75247ff9739549bc275",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Steamed_momos_-_Tibetan_cuisine.jpg",
+      "artist": "Sarkar Sayantan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "handheld",
+        "momos"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "mutton_curry",
+      "file": "images/mutton_curry.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "d32852c3699f7e4015b04d00a7df72e20b8133ecd39914eb7585b58ada2fdbd3",
+      "sourcePage": "https://www.zomato.com/bangalore/new-govind-rao-military-hotel-since-1911-majestic-bangalore/order",
+      "artist": "New Govind Rao Military Hotel / Zomato",
+      "license": "Restaurant permission required",
+      "licenseUrl": "https://www.zomato.com/bangalore/new-govind-rao-military-hotel-since-1911-majestic-bangalore/order",
+      "permissionRequired": true,
+      "mediaPath": [
+        "food",
+        "curries",
+        "mutton_curry"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "mutton_kebab_tikka",
+      "file": "images/mutton_kebab_tikka.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "40d6bb92d8a09a75c13a9dced67f67fdf62c25b68d7ddcceded83520bf7f3a80",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mutton_shish_kebab.jpg",
+      "artist": "E4024",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "grills_kebabs",
+        "mutton_kebab_tikka"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "naan",
+      "file": "images/naan.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "5b8c17219b44d4281da7fa85e43b4e1fe3f86842fca4b2712669ff9e158e7a8b",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2020-02-22_20_57_14_Mixed_herb_and_cheese_naan_bread_at_Karma_Modern_Indian_in_Washington,_D.C.jpg",
+      "artist": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "breads",
+        "naan"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "noodles_chowmein",
+      "file": "images/noodles_chowmein.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "0cc0ee2b2e6efc489e2de8b8a3cb0dc370333cf2f4c66a7fca622f07d7576755",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Veg_Chowmein_Indian_Style!.jpg",
+      "artist": "Nami Verma",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "indo_chinese",
+        "noodles_chowmein"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "pakora_fried_snacks",
+      "file": "images/pakora_fried_snacks.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "221d9c04ec052af781d9463dece5a3249f191a4f18ffd10a3e646c4dc5e03599",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pakoras_in_Jaipur.jpg",
+      "artist": "ampersandyslexia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "street_snacks",
+        "pakora_fried_snacks"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "paneer_gravy",
+      "file": "images/paneer_gravy.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "658ff48f4b83032db33e3e0425588030c23ebd6d1ea79be047a0e7c9f431bb15",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Paneer_Butter_Masala_by_me.jpg",
+      "artist": "TabassumJawed",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "curries",
+        "paneer_gravy"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "paneer_tikka",
+      "file": "images/paneer_tikka.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "c0871efbd112340815cc8cc1d1fbe32768d10f2cd76d5658a489e40f06576f9c",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Paneer_Tikka_Masala_(2026)_01.jpg",
+      "artist": "Gpkp",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "grills_kebabs",
+        "paneer_tikka"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "paratha",
+      "file": "images/paratha.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "a1ffd882ee4fef3ffdc602f7dcd28dadbb15002fd09c990465f9df1f52fe5390",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Paratha_is_a_dough_fried_flatbread_of_India_and_Pakistan.jpg",
+      "artist": "Shahzaib Damn Cruze",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "breads",
+        "paratha"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "pasta",
+      "file": "images/pasta.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "f5a21a983318c07e58fa1514ad0852b76b7d39ff7697ff36e21d33729500d250",
+      "sourcePage": "https://www.thefork.fr/restaurant/per-bacco-r72998",
+      "artist": "Per Bacco / TheFork",
+      "license": "Restaurant permission required",
+      "licenseUrl": "https://www.thefork.fr/restaurant/per-bacco-r72998",
+      "permissionRequired": true,
+      "mediaPath": [
+        "food",
+        "fast_food",
+        "pasta"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "pav_bhaji",
+      "file": "images/pav_bhaji.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "c8690a19677cea80c73ec841ce8dbb76503c5fcfc677b5dd3d96566b8e151fad",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pav_Bhaji_(22831662039).jpg",
+      "artist": "Ashwin Kumar from Bangalore, India",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "street_snacks",
+        "pav_bhaji"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "pizza",
+      "file": "images/pizza.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "8cf68fdb5d0c700ca62429d82b395212c75d5921184e61610878f870be879157",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Margherita_pizza_on_plate_2.jpg",
+      "artist": "Shisma",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "fast_food",
+        "pizza"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "pizza_toppings",
+      "file": "images/pizza_toppings.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "7573f2edcf17556068a86d2075846ec7698d0b55950d5022b6faa88afb07d33a",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Vegetarian_pizza.jpg",
+      "artist": "Food Recipes",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "fast_food",
+        "pizza_toppings"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "prawn_seafood",
+      "file": "images/prawn_seafood.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "8333419b934f7bfe1efed4e4d4c96cfd2a6f2ea13b02e889a3d5da379a2cb369",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:GARLIC_CHILLI_PRAWN.jpg",
+      "artist": "Duttaanu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "proteins",
+        "prawn_seafood"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "rajma",
+      "file": "images/rajma.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "93179eefcdeaa737198ac157894f799c7d9c71335797eaa7cc7df6f5bcd1f4a1",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rajma_Chawal_Thali.jpg",
+      "artist": "Medhi jyoti",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "curries",
+        "rajma"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "raw_chicken_meat",
+      "file": "images/raw_chicken_meat.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "10dcbb6d0efa1f1bc345ca97a6a2a1183b2703ca52f97fec1715f357a4e5ae18",
+      "sourcePage": "https://www.garchameatshop.com/product/chicken-breasts-cut-boneless",
+      "artist": "Garcha Bros Meat Shop",
+      "license": "Restaurant permission required",
+      "licenseUrl": "https://www.garchameatshop.com/product/chicken-breasts-cut-boneless",
+      "permissionRequired": true,
+      "mediaPath": [
+        "food",
+        "proteins",
+        "raw_chicken_meat"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "rice_pulao",
+      "file": "images/rice_pulao.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "3fb291f18290efab3d659b1a429adf6c21f349831133922b1d7c2d205f49289f",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:VEGETABLE_PULAO_~_An_Indian_cuisine_made_from_fried_rice_mixed_with_fried_vegetables.jpg",
+      "artist": "Jagisnowjughead",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "rice",
+        "rice_pulao"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "rolls_frankie_wraps",
+      "file": "images/rolls_frankie_wraps.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "1af4b46d86924d082157c5755c40bcbe35fce066477dfc0af672c02d1ebb89fb",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kati_Roll_Company,_Soho,_London_(2809874428).jpg",
+      "artist": "Ewan Munro from London, UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "handheld",
+        "rolls_frankie_wraps"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "roti_breads",
+      "file": "images/roti_breads.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "0e13881bc46329814bfe741aca46e512fd8cbfb861c278dccece69948b758dc5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Flaky_layered_chapati_served_at_The_Well_in_Karen,_Nairobi.jpg",
+      "artist": "Lebu Ayiga",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "breads",
+        "roti_breads"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "salad_raita_accompaniments",
+      "file": "images/salad_raita_accompaniments.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "9b62ef6fc14c09894142aa0bbba76f614f73a1ab4407071d4e584e4fed00573f",
+      "sourcePage": "https://cookifi.com/cuisine/north-indian/course/salad-raita-papad/dish/282/raita",
+      "artist": "Cookifi",
+      "license": "Restaurant permission required",
+      "licenseUrl": "https://cookifi.com/cuisine/north-indian/course/salad-raita-papad/dish/282/raita",
+      "permissionRequired": true,
+      "mediaPath": [
+        "food",
+        "sides",
+        "salad_raita_accompaniments"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "samosa_kachori",
+      "file": "images/samosa_kachori.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "4b06635c7733cbc1debe68cf4c7858f5df7ff45224ab2664fca9cdc2c08cd19f",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wikimania_2018,_Cape_Town_(P1050663).jpg",
+      "artist": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "street_snacks",
+        "samosa_kachori"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "sandwich",
+      "file": "images/sandwich.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "4559c20794848d2a10979980bc4fc6e56a9a7c310a938a2c101c396370448173",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Vegetable_Toast_Sandwich_with_coconut_Chutney.JPG",
+      "artist": "Namitakhaire",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "fast_food",
+        "sandwich"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "seekh_kebab",
+      "file": "images/seekh_kebab.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "6ba37ea5636e9f199a3b6ddb3b0a5a6adbbc7ee694bf6f3d59c994c3ae1e9c84",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mutton_Seekh_Kabab.JPG",
+      "artist": "Dheerajk88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "grills_kebabs",
+        "seekh_kebab"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "shawarma",
+      "file": "images/shawarma.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "0e2907b00c3da183dfc509fc543a1ec6c07733a290f60e991527a5c71dadcf5d",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chicken_Shawarma.jpg",
+      "artist": "Zebaarts",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "handheld",
+        "shawarma"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "snacks_generic",
+      "file": "images/snacks_generic.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "f241c0dc4c96d2265d7563f1d841784beba738e9f44f4b6c1c29ac7001cbebbe",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kachori-1.jpg",
+      "artist": "Pixel Town3",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "street_snacks",
+        "snacks_generic"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "soup_nonveg",
+      "file": "images/soup_nonveg.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "6e6ca59e821116dea05defcdcec4eaeb30534c293f17d889a7ab15a06b377e70",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chicken_noodle_soup_(cropped).jpg",
+      "artist": "Eli Hodapp from Naperville, United States",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "soups",
+        "soup_nonveg"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "soup_veg",
+      "file": "images/soup_veg.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "c0944a6e8467294db15183241844d57810a2963196661dbf49c59dc35707aaea",
+      "sourcePage": "https://www.zomato.com/coonoor/orchid-square-boutique-hotel-coonoor-locality/order",
+      "artist": "Orchid Square Boutique Hotel / Zomato",
+      "license": "Restaurant permission required",
+      "licenseUrl": "https://www.zomato.com/coonoor/orchid-square-boutique-hotel-coonoor-locality/order",
+      "permissionRequired": true,
+      "mediaPath": [
+        "food",
+        "soups",
+        "soup_veg"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "south_indian_breakfast",
+      "file": "images/south_indian_breakfast.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "ddf349122f87afdb768b0329a1ac63ece7451e3c502f63ad62387c765624a0e8",
+      "sourcePage": "https://www.rdpinsta.in/product/28517796/Upma-500-Gms",
+      "artist": "Roti di Potli",
+      "license": "Restaurant permission required",
+      "licenseUrl": "https://www.rdpinsta.in/product/28517796/Upma-500-Gms",
+      "permissionRequired": true,
+      "mediaPath": [
+        "food",
+        "breakfast",
+        "south_indian_breakfast"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "soya_chaap",
+      "file": "images/soya_chaap.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "9a6eb5501817e62ec16cc8f927f849b7b5c9f6c5a91e75524464e429bff2bf89",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Soya_Chaap_2.JPG",
+      "artist": "anand kumar gupta",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "handheld",
+        "soya_chaap"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "spring_roll",
+      "file": "images/spring_roll.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "361375b6d6a2b4784bbf18cf854b90e07f7fc25ee272c58e667e91aa438aa720",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Golden_Vegetable_Spring_Rolls_Served_with_Dipping_Sauce.jpg",
+      "artist": "Srujanabotcha",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "indo_chinese",
+        "spring_roll"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "tacos_quesadilla",
+      "file": "images/tacos_quesadilla.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "fc68f59be8a98b8a91c8d5c65f7a17162382b263ce8951b8694d41ae9c164a0c",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Tacos_on_a_plate.jpg",
+      "artist": "Evgeny Krivosheev",
+      "license": "Public domain",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "fast_food",
+        "tacos_quesadilla"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "tandoori_chicken",
+      "file": "images/tandoori_chicken.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "d5e66858a4b9ab1e7d6819b650bd25086fafee472e38dd458d92a9bc900565c0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Tandoori_chicken-MB41.jpg",
+      "artist": "Rajeeb Dutta",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "grills_kebabs",
+        "tandoori_chicken"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "tea",
+      "file": "images/tea.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "63735174d615cbc987ac8c192c0b59fb25928d5a7521875ff4377d4f84bcc878",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Karak_(traditionally_Indian_tea).jpg",
+      "artist": "Carole Marxer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "drinks",
+        "tea"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "thali_combo_meal",
+      "file": "images/thali_combo_meal.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "2e087dfdddf9862fe25ad6e77419e8759520c7893197c63de446dcb4ac16ee41",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%277%27_An_Eastern_Indian_Thali,_traditional_style_of_serving_food_in_India.jpg",
+      "artist": "fabulousfabs",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "meals",
+        "thali_combo_meal"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "thali_nonveg",
+      "file": "images/thali_nonveg.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "6d357635956339a02d8f88ddf335abb784529cc0bc13c79d3e26f948205d9653",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Malwani_Chicken_Thali.jpg",
+      "artist": "Shailesh V Nigawale",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "meals",
+        "thali_nonveg"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "thali_veg",
+      "file": "images/thali_veg.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "13ba8cd850f3a86616149509d7bd2f54b9cddc97356a666d9a402485c418b647",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Vegetarian_thali_Karnataka_DSC0004.jpg",
+      "artist": "Maina Bosco",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "meals",
+        "thali_veg"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "tiffin_plan",
+      "file": "images/tiffin_plan.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "9d0895e2d48b121e6a0ce474bf00743bac55ec111d055440e815db067166bc8a",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:North_Indian_Vegetarian_Thali-MB51.jpg",
+      "artist": "Rajeeb Dutta",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "meals",
+        "tiffin_plan"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "tiffin_plan_nonveg",
+      "file": "images/tiffin_plan_nonveg.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "6d357635956339a02d8f88ddf335abb784529cc0bc13c79d3e26f948205d9653",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Malwani_Chicken_Thali.jpg",
+      "artist": "Shailesh V Nigawale",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "meals",
+        "tiffin_plan_nonveg"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "vada_bajji_punugulu",
+      "file": "images/vada_bajji_punugulu.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "8e83452f1e7c83a751f0643b5a7baa0ae8ef6654fbd67cc600cce1ed6ccd1141",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Medu_Vada_with_chutnies.jpg",
+      "artist": "Ravi Talwar",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "street_snacks",
+        "vada_bajji_punugulu"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "veg_curry_sabzi",
+      "file": "images/veg_curry_sabzi.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "8c45fb560cc441e919605133948ff984b6badadff98d2b94842203ddf78cc9c3",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aubergine_%26_Potato_curry_(506336160).jpg",
+      "artist": "rovingI",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "curries",
+        "veg_curry_sabzi"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "veg_manchurian",
+      "file": "images/veg_manchurian.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "f86bcc527d903fcf76565c9b158248e8a0ef710f43f83317a23bebb0ca964475",
+      "sourcePage": "https://www.swiggy.com/city/delhi/gupta-restaurant-sector-4-gole-market-rest76884",
+      "artist": "Gupta Restaurant / Swiggy",
+      "license": "Restaurant permission required",
+      "licenseUrl": "https://www.swiggy.com/city/delhi/gupta-restaurant-sector-4-gole-market-rest76884",
+      "permissionRequired": true,
+      "mediaPath": [
+        "food",
+        "indo_chinese",
+        "veg_manchurian"
+      ],
+      "assetDepth": 3
+    },
+    {
+      "familyKey": "veg_starters",
+      "file": "images/veg_starters.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "95f6a32c93380875af7c17d12930000e8823e2d5da399a5f7d0da4b8dffcbbc9",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Vegetarian_platter_at_Gud_Katha,_Noida_(2025-08-23).jpg",
+      "artist": "Contrapunctus-1",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "permissionRequired": false,
+      "mediaPath": [
+        "food",
+        "indo_chinese",
+        "veg_starters"
+      ],
+      "assetDepth": 3
+    }
+  ],
+  "hierarchy": {
+    "maxDepth": 4,
+    "levels": [
+      "domain",
+      "collection",
+      "family",
+      "variant"
+    ],
+    "assetDepth": 3,
+    "variantFileConvention": "{familyKey}--{variantKey}.jpg"
+  }
+}

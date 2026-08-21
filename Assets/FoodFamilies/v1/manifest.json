@@ -19,7 +19,21 @@
         "rice",
         "biryani"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/biryani.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "1d0617a2f1d6a71c84a45755c5b480b54d4bd10295bbfe14fc482b100fec8319"
+        },
+        "thumb": {
+          "file": "thumbs/biryani.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "658078a4a3b9d7cb16e03cb3ab032ea5a76884502bdb86ded4c23326da07f0e0"
+        }
+      }
     },
     {
       "familyKey": "burger",
@@ -37,7 +51,21 @@
         "fast_food",
         "burger"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/burger.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "0dcfb3c14c88f142b1d48189b63d415c826e700dd04aa55a9b0259e740498044"
+        },
+        "thumb": {
+          "file": "thumbs/burger.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "da861e67e0c6f9a77d0d147b4c2e4058e51da39df71ec99e49de6def82a65c3b"
+        }
+      }
     },
     {
       "familyKey": "cake_pastry_brownie",
@@ -55,7 +83,21 @@
         "desserts",
         "cake_pastry_brownie"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/cake_pastry_brownie.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "24a56d6e390d90209ebad3c2b224298df1ee65514e1cdbcbb3e1e2bba8143c86"
+        },
+        "thumb": {
+          "file": "thumbs/cake_pastry_brownie.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "67f959685554b256de35f7565f0b1e9d153eec88d446f1531f21eba4affe9150"
+        }
+      }
     },
     {
       "familyKey": "chaat",
@@ -73,7 +115,21 @@
         "street_snacks",
         "chaat"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/chaat.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "3ba5b1b5e518989c782d6053f306e250cd6f309e29d6d420acc15e691c889c6e"
+        },
+        "thumb": {
+          "file": "thumbs/chaat.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "d7bef7174d4ebc4e26148cb82d52c2826ad51c2b67db6acad18881b06c03914b"
+        }
+      }
     },
     {
       "familyKey": "chicken_curry",
@@ -91,7 +147,21 @@
         "curries",
         "chicken_curry"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/chicken_curry.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "b3dd491f923ad546f3a2ed2f8dcd75c1e8a0a6eefa565f2eb2ddced3648dd90a"
+        },
+        "thumb": {
+          "file": "thumbs/chicken_curry.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "026bf6288926fa8499b2d5d1d91a87eb5f791d9de4a639360b6f8a5620ea3402"
+        }
+      }
     },
     {
       "familyKey": "chicken_tikka_kebab",
@@ -109,7 +179,21 @@
         "grills_kebabs",
         "chicken_tikka_kebab"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/chicken_tikka_kebab.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "4f152843551c0ee011682da67387a775351058ce63bca216c972084f0d312c2c"
+        },
+        "thumb": {
+          "file": "thumbs/chicken_tikka_kebab.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "79389095e9879d13ddd3c1115a69390333bcf2e868104e8f05c7bd08c111e3d7"
+        }
+      }
     },
     {
       "familyKey": "chicken_wings_lollipop",
@@ -127,7 +211,21 @@
         "grills_kebabs",
         "chicken_wings_lollipop"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/chicken_wings_lollipop.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "776f1e20c3ff37f77b3339259095ccde8e67d8e51ef4664246652d4c60094792"
+        },
+        "thumb": {
+          "file": "thumbs/chicken_wings_lollipop.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "e1446f6a6909ca2d9ea7c9a76af7c1ed9dcc50ca31a60ac09e4b3e95cde4dfea"
+        }
+      }
     },
     {
       "familyKey": "chilli_chicken_dry",
@@ -145,7 +243,21 @@
         "indo_chinese",
         "chilli_chicken_dry"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/chilli_chicken_dry.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "9095066f5930fad49142f15e669cfc4d27ee1d8abead731190f6fa883c714504"
+        },
+        "thumb": {
+          "file": "thumbs/chilli_chicken_dry.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "d4fbec33b939f27455df5b99fe7e63d7f4d4d5dc7cd4cef59264add101676bf4"
+        }
+      }
     },
     {
       "familyKey": "chilli_mushroom",
@@ -163,7 +275,21 @@
         "indo_chinese",
         "chilli_mushroom"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/chilli_mushroom.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "b608a735eebc10f74eaf4703da75cfb9df9b13b911061a6d9b8f803c319131f6"
+        },
+        "thumb": {
+          "file": "thumbs/chilli_mushroom.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "d810277ad66a657a24a84e589ae46fee22ec14bd12782d120e4a645c5741832c"
+        }
+      }
     },
     {
       "familyKey": "chilli_paneer",
@@ -181,7 +307,21 @@
         "indo_chinese",
         "chilli_paneer"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/chilli_paneer.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "60d73c6f549dad15ddafeda9370b403fa03301a73838404c789bb951ecd377cf"
+        },
+        "thumb": {
+          "file": "thumbs/chilli_paneer.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "37ddaf2b6953f09689ac8cbff548932ce115590ba1f814db5933c2174269e19f"
+        }
+      }
     },
     {
       "familyKey": "chilli_potato",
@@ -199,7 +339,21 @@
         "indo_chinese",
         "chilli_potato"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/chilli_potato.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "73b82b1105e533f404b1156bfbd942ee1b940092f5c4de196c2ae9b13f39a9bc"
+        },
+        "thumb": {
+          "file": "thumbs/chilli_potato.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "208e307d7d213bb21e96c0380a5f6fbe1f08df952bc7497781c3ba33df0fcf53"
+        }
+      }
     },
     {
       "familyKey": "chole_chana",
@@ -217,7 +371,21 @@
         "curries",
         "chole_chana"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/chole_chana.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "3c6512b900f3079156271845748278b07c291f021021046c618fac3d2ff6d49f"
+        },
+        "thumb": {
+          "file": "thumbs/chole_chana.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "3d4d316910c49fceda1338bbcaff3ea446f9f2e906c39c5380c65e337098750c"
+        }
+      }
     },
     {
       "familyKey": "cold_coffee_frappe",
@@ -235,7 +403,21 @@
         "drinks",
         "cold_coffee_frappe"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/cold_coffee_frappe.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "48f2cf6e6c04c84f544ac42966864830a2e6ccbc864cef7d3df89bbad28c0408"
+        },
+        "thumb": {
+          "file": "thumbs/cold_coffee_frappe.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "1e4ab55c6540b352807e65e10fb38704a4c9f588555b329a6bd93e276b4579fc"
+        }
+      }
     },
     {
       "familyKey": "cold_drink_water",
@@ -252,7 +434,21 @@
         "drinks",
         "cold_drink_water"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/cold_drink_water.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "9057e8765575c39d5ebd2607e46dedf5b4fd07303e8117ae22cf28aa6516489b"
+        },
+        "thumb": {
+          "file": "thumbs/cold_drink_water.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "2bb48bc38a93dcf92283461741fbb43bbc792f7c405a0c9f862f13f3e90d7c06"
+        }
+      }
     },
     {
       "familyKey": "crispy_corn",
@@ -270,7 +466,21 @@
         "indo_chinese",
         "crispy_corn"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/crispy_corn.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "ce46fc41f0dc2173f0fc255efb0959c9bef8a1c2a4000315529643b93bc22eb4"
+        },
+        "thumb": {
+          "file": "thumbs/crispy_corn.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "ee6854d16f342932513d8f976556e393d0238e3c7286c4a6e3548898105bbdd5"
+        }
+      }
     },
     {
       "familyKey": "dal",
@@ -288,7 +498,21 @@
         "curries",
         "dal"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/dal.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "6d6599155eeeeb24f7d731a055d2e8b93bde3a08339a8f97b9826807d19ec7d6"
+        },
+        "thumb": {
+          "file": "thumbs/dal.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "ea97afec4b94cb60915145e9445f548edf5cf104d8856e3617e2965ceb747ff0"
+        }
+      }
     },
     {
       "familyKey": "dhokla_fafda",
@@ -306,7 +530,21 @@
         "street_snacks",
         "dhokla_fafda"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/dhokla_fafda.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "a9c42b7267507853581c4324b8ab11c265c0a32623c134df2cb8ffd97e1da6b4"
+        },
+        "thumb": {
+          "file": "thumbs/dhokla_fafda.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "5340f1a54374fd8c275d0b940665565b907d6b22667b00b1eb96a0d32594ed5b"
+        }
+      }
     },
     {
       "familyKey": "dosa",
@@ -324,7 +562,21 @@
         "breakfast",
         "dosa"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/dosa.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "a94fd60f568632b5de48d8ab460690f0b7de260cfbb768ddfc3cbe95b905166d"
+        },
+        "thumb": {
+          "file": "thumbs/dosa.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "d90f6737ce257e3c551653d3282148bd54b02f3a32b17f891ea92e35dd4879e7"
+        }
+      }
     },
     {
       "familyKey": "egg_curry_bhurji",
@@ -342,7 +594,21 @@
         "curries",
         "egg_curry_bhurji"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/egg_curry_bhurji.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "622c884bd49c8647177dacde4cd0f3eee985281688acee0dec8c4853129dadaf"
+        },
+        "thumb": {
+          "file": "thumbs/egg_curry_bhurji.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "011eabb34361c9f1b4941b2984b11e81193afbadcbe045800cfc91f24bf2752a"
+        }
+      }
     },
     {
       "familyKey": "egg_dishes",
@@ -360,7 +626,21 @@
         "proteins",
         "egg_dishes"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/egg_dishes.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "d12e875457c0ae4ff43f8cd29e8a4949b1fd62cda4a2f9b0d08f384b681c9a84"
+        },
+        "thumb": {
+          "file": "thumbs/egg_dishes.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "53f8a4bec1335aa831685ba66f3be0f3580e7c9bb6b1484e32c41fbedc0dbf96"
+        }
+      }
     },
     {
       "familyKey": "fish_curry",
@@ -378,7 +658,21 @@
         "curries",
         "fish_curry"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/fish_curry.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "b492371489b3d225ff689307204445cb11ac23443c61b3c2e270b0c023417dc3"
+        },
+        "thumb": {
+          "file": "thumbs/fish_curry.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "d9ba602ea144192985b0c9dbe7568d6aa53062d7cd7631dd177058ee5edf54b9"
+        }
+      }
     },
     {
       "familyKey": "fish_fry",
@@ -396,7 +690,21 @@
         "grills_kebabs",
         "fish_fry"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/fish_fry.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "e3c75eb92c36cc4dcaf07ccb3b8c1c8c82f7d4d820c033d7bb95b160b8ba69d4"
+        },
+        "thumb": {
+          "file": "thumbs/fish_fry.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "c799567e35e0653fee11a6384e4d8937623787182862db9b9e31d1c07745b9c2"
+        }
+      }
     },
     {
       "familyKey": "fried_chicken_snacks",
@@ -414,7 +722,21 @@
         "grills_kebabs",
         "fried_chicken_snacks"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/fried_chicken_snacks.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "fa03af47268c0fb04238a6c73c497946625e6334153cdfb6a3c02477c05a389d"
+        },
+        "thumb": {
+          "file": "thumbs/fried_chicken_snacks.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "73c43e1514b61be2dd49d7d8af5e8e24f20db45d033b8b9bf4fabf592b8cf218"
+        }
+      }
     },
     {
       "familyKey": "fried_rice",
@@ -432,7 +754,21 @@
         "rice",
         "fried_rice"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/fried_rice.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "cae0439fa8a1ba24d2bd13ef337d97a666e2b2c1faa270fdfaf539db4a794122"
+        },
+        "thumb": {
+          "file": "thumbs/fried_rice.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "677921705e723857511880a29b79cc3f858102e1ebab92b071af26f1ecbb1b90"
+        }
+      }
     },
     {
       "familyKey": "fries",
@@ -450,7 +786,21 @@
         "street_snacks",
         "fries"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/fries.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "19e16dd4a1af857593725f2a3cd56e16f1c88a0e1a353a242dd9e63b49a5a4c4"
+        },
+        "thumb": {
+          "file": "thumbs/fries.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "31e0af47d26dd56cee02e4429198bfcbc7bd963257a63cef433cfa7e13bd87c6"
+        }
+      }
     },
     {
       "familyKey": "garlic_bread",
@@ -468,7 +818,21 @@
         "fast_food",
         "garlic_bread"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/garlic_bread.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "45bdfbf98a89f9bbc27c188b5b8c793660fee5e48d45d56235147a0deabb90cf"
+        },
+        "thumb": {
+          "file": "thumbs/garlic_bread.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "5656c2790ff16c256d6eb9a6ada72e832c3756d64b6fc9ac4edc9eac8a157544"
+        }
+      }
     },
     {
       "familyKey": "hot_beverage",
@@ -486,7 +850,21 @@
         "drinks",
         "hot_beverage"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/hot_beverage.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "7c99fadd75018862de7e3ed948497b13d48b764a86f76597ac18c40f43ca2966"
+        },
+        "thumb": {
+          "file": "thumbs/hot_beverage.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "4bf1a25aa8ef8c5204b2046918ffadb7ab1280ec36ea69304c8dd06b185cd000"
+        }
+      }
     },
     {
       "familyKey": "idli",
@@ -504,7 +882,21 @@
         "breakfast",
         "idli"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/idli.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "bf75da3dbd9e64eceb32ba6362160a2b4b5114535deca5860133c5442725d9fe"
+        },
+        "thumb": {
+          "file": "thumbs/idli.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "fa4318bbe0a138a5317e79a6007836559619939efbf8b6f9e7b3b84f69977af1"
+        }
+      }
     },
     {
       "familyKey": "indian_sweets",
@@ -522,7 +914,21 @@
         "desserts",
         "indian_sweets"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/indian_sweets.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "455a3f7eb9c34239101b6680c874b10dff7bccd24279d48c4096095031920908"
+        },
+        "thumb": {
+          "file": "thumbs/indian_sweets.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "5656fcd064aef075fef79c7e696490eee46a2a421ea71ab5e5a46f77c5e3c307"
+        }
+      }
     },
     {
       "familyKey": "juice_sorbet",
@@ -540,7 +946,21 @@
         "drinks",
         "juice_sorbet"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/juice_sorbet.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "8e6b0e028616afe003c852572702665af8a11a02c56b14d001ee5627fc490faf"
+        },
+        "thumb": {
+          "file": "thumbs/juice_sorbet.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "579a6acd049640e4d435b1fbcfaee1dabfcd2848f2bb0be1c993c5645f8eb16c"
+        }
+      }
     },
     {
       "familyKey": "kulcha",
@@ -558,7 +978,21 @@
         "breads",
         "kulcha"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/kulcha.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "1d6c2551a3ccb7e383236a5e345430ebc1b251445a22eedecceb2d8ca3979ec1"
+        },
+        "thumb": {
+          "file": "thumbs/kulcha.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "ba70e7a2b52a98c3fb6d7e15e4c2afbd982fdd9aff1b8e56768b193f0cb0d657"
+        }
+      }
     },
     {
       "familyKey": "kulfi_icecream",
@@ -576,7 +1010,21 @@
         "desserts",
         "kulfi_icecream"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/kulfi_icecream.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "1bad69b3e944d8a8921c52ead4377dbfbc3121a31d6901bb6a0368e559a14ca4"
+        },
+        "thumb": {
+          "file": "thumbs/kulfi_icecream.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "f86f8926b9047e9a5648813d381aced5ed1ffc0c0424d0fbbd59f5d10f96601f"
+        }
+      }
     },
     {
       "familyKey": "lassi_chaas",
@@ -594,7 +1042,21 @@
         "drinks",
         "lassi_chaas"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/lassi_chaas.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "bea45a55bc17e58286cbb59c5a402b80f6c74aa35584e90653aa291daa8a80f3"
+        },
+        "thumb": {
+          "file": "thumbs/lassi_chaas.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "6a8a891761e3bc526b325d739582f2e131b82a6ab76f44eeef4d7e52d28250f2"
+        }
+      }
     },
     {
       "familyKey": "maggi",
@@ -612,7 +1074,21 @@
         "street_snacks",
         "maggi"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/maggi.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "4864e9f398e1016934d894f06fdd690cbd642278dd5b657a80e224a4d85d69e7"
+        },
+        "thumb": {
+          "file": "thumbs/maggi.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "135e6252e20912cfe5e53c144a2eabb2392c339c4ecc020870236d10849f8873"
+        }
+      }
     },
     {
       "familyKey": "meal_bowl",
@@ -630,7 +1106,21 @@
         "meals",
         "meal_bowl"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/meal_bowl.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "a28b3a234b1d1d21744515c84889ab0c26d226e8c17a1d057d515c6b2d5d0ccb"
+        },
+        "thumb": {
+          "file": "thumbs/meal_bowl.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "3218a99dab692df40c7ffa01a0e15acc4e74eb20f25f956b8ca80a3b3d3a3ddc"
+        }
+      }
     },
     {
       "familyKey": "milkshake",
@@ -648,7 +1138,21 @@
         "drinks",
         "milkshake"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/milkshake.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "2272ffd79bbfdb1f72e6a6bf33c147ea04021535a712b6731ba9cdbd13a2ccf7"
+        },
+        "thumb": {
+          "file": "thumbs/milkshake.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "c39e1a90bbc67966fbe3e6d84ed095df6e853ab6810952d59026a99512f76228"
+        }
+      }
     },
     {
       "familyKey": "mocktail_mojito",
@@ -666,7 +1170,21 @@
         "drinks",
         "mocktail_mojito"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/mocktail_mojito.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "df7900c6126ab72ba7fae14db1d931bfddbb32bfb8588e7c985db8bf4d127c7b"
+        },
+        "thumb": {
+          "file": "thumbs/mocktail_mojito.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "822932b4f29fbe62272f327ee3b27904b0f936541bfded72e83c5505e9842a68"
+        }
+      }
     },
     {
       "familyKey": "momos",
@@ -684,7 +1202,21 @@
         "handheld",
         "momos"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/momos.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "18ddfec0dd309811643f4fe08025c84cf1d283b524aba932c215b4cc712c2910"
+        },
+        "thumb": {
+          "file": "thumbs/momos.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "b1e49bcca03c7db490985f3949d1210c6185b388ef70a67321817073b9141e4f"
+        }
+      }
     },
     {
       "familyKey": "mutton_curry",
@@ -702,7 +1234,21 @@
         "curries",
         "mutton_curry"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/mutton_curry.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "dd06e69114a084d307093863108d14e2307aac6be3da6957ccf81944b194fb1c"
+        },
+        "thumb": {
+          "file": "thumbs/mutton_curry.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "b7626e472cab157422eb21d81069663ab63deb13c9c6c86d2a40e2e084fbc1ec"
+        }
+      }
     },
     {
       "familyKey": "mutton_kebab_tikka",
@@ -720,7 +1266,21 @@
         "grills_kebabs",
         "mutton_kebab_tikka"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/mutton_kebab_tikka.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "e24c1eebc4005f0e98626f5bca47c6cb3151e0522ecbf3670ea4c0b5c4ea4041"
+        },
+        "thumb": {
+          "file": "thumbs/mutton_kebab_tikka.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "f4b2d56c9181f1a03c95f2cc4c099d113106a51b232ab219d49260a36787090e"
+        }
+      }
     },
     {
       "familyKey": "naan",
@@ -738,7 +1298,21 @@
         "breads",
         "naan"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/naan.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "4a24616c29496c43d05e6fc56fcb3ab94ce618a22809e83509ffaa73de65dd7f"
+        },
+        "thumb": {
+          "file": "thumbs/naan.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "e36f75df180bd9e401b35db8c751733bf61f3b9d528bcd0aaced634cecf9db6a"
+        }
+      }
     },
     {
       "familyKey": "noodles_chowmein",
@@ -756,7 +1330,21 @@
         "indo_chinese",
         "noodles_chowmein"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/noodles_chowmein.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "5736453db7bad2af778a301204d215b9beab5522cc9b15e433cdccb6f84f0434"
+        },
+        "thumb": {
+          "file": "thumbs/noodles_chowmein.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "7742072322f815ab9e68d4a1a0f51ca29cf9b2174375e0793ebe554d0911ccbb"
+        }
+      }
     },
     {
       "familyKey": "pakora_fried_snacks",
@@ -774,7 +1362,21 @@
         "street_snacks",
         "pakora_fried_snacks"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/pakora_fried_snacks.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "d106d34019fe6371131d2eca14b4d269be864200a713e8beb6341c6c47df5264"
+        },
+        "thumb": {
+          "file": "thumbs/pakora_fried_snacks.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "24bce4c1d57e1c664ba5bd3adae517d8c033168bf53a2ac8d0b67143dea34490"
+        }
+      }
     },
     {
       "familyKey": "paneer_gravy",
@@ -792,7 +1394,21 @@
         "curries",
         "paneer_gravy"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/paneer_gravy.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "dbee41f02a61afca1936f4ef7321e02712b778d933a7a2eb84953989caac99ed"
+        },
+        "thumb": {
+          "file": "thumbs/paneer_gravy.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "1388847049e6061a654d9676ac60f85377768b0440356dd0ac4d402fd49de968"
+        }
+      }
     },
     {
       "familyKey": "paneer_tikka",
@@ -810,7 +1426,21 @@
         "grills_kebabs",
         "paneer_tikka"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/paneer_tikka.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "3b78697d64f88655f97b1014039f6b42d35a4a2cab316f89d86155419ed63175"
+        },
+        "thumb": {
+          "file": "thumbs/paneer_tikka.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "9d808b680d8eacc66a9878f56bdfe9a72edf08f09f5da436e0bfa4e74a33d724"
+        }
+      }
     },
     {
       "familyKey": "paratha",
@@ -828,7 +1458,21 @@
         "breads",
         "paratha"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/paratha.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "42ab5d1cd1f479f57fc373cf7e63c3b18f72828156b5c2fd756ee3017e48edb9"
+        },
+        "thumb": {
+          "file": "thumbs/paratha.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "3227fb6db754296fee1356d73e5338a9c27bf64fdf11451bb57b75dcd15b4a83"
+        }
+      }
     },
     {
       "familyKey": "pasta",
@@ -846,7 +1490,21 @@
         "fast_food",
         "pasta"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/pasta.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "4a787b6bbf46d56023612da0ee45a38f29c17977223485ded598d4a885e29f99"
+        },
+        "thumb": {
+          "file": "thumbs/pasta.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "81ffc90d1e7bbe129c43ca3680090276a6de83c2659f66ce5fb67f4ad66aa7f0"
+        }
+      }
     },
     {
       "familyKey": "pav_bhaji",
@@ -864,7 +1522,21 @@
         "street_snacks",
         "pav_bhaji"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/pav_bhaji.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "9468f0565b15d466243f1608dd86a9b58c97843f9440e72288cb5631a3b3b503"
+        },
+        "thumb": {
+          "file": "thumbs/pav_bhaji.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "1f4a0b1bd00dbb61e08f2b1ec28b61ac1f226b188da4ddf3df95352f245f9af0"
+        }
+      }
     },
     {
       "familyKey": "pizza",
@@ -882,7 +1554,21 @@
         "fast_food",
         "pizza"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/pizza.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "ad76086a7092e7ef0b6640f3ec8474421026dbef9d6f44a9e657b5954a7cd781"
+        },
+        "thumb": {
+          "file": "thumbs/pizza.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "fef8b628ef3942a3a251c7ae164db97a1052024be039d1b3f1ab2cc16b7267f1"
+        }
+      }
     },
     {
       "familyKey": "pizza_toppings",
@@ -900,7 +1586,21 @@
         "fast_food",
         "pizza_toppings"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/pizza_toppings.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "6bea287d5316e62de91aaab7d2aa27876aa0349828eaabdf2eb9e239eb3cb2b4"
+        },
+        "thumb": {
+          "file": "thumbs/pizza_toppings.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "149ec9d5dc7216b253b02ed6c453015c3df6e0593acd77f4e079c918272a5a15"
+        }
+      }
     },
     {
       "familyKey": "prawn_seafood",
@@ -918,7 +1618,21 @@
         "proteins",
         "prawn_seafood"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/prawn_seafood.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "7793c6c431ff155f5077351a6fb62ffb8e6a6a6561d406f03315efab46bbae4e"
+        },
+        "thumb": {
+          "file": "thumbs/prawn_seafood.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "173b9bce0a4ff6505ce53537114b569a94f4ce79a6329c306d5b81f4f5f71b52"
+        }
+      }
     },
     {
       "familyKey": "rajma",
@@ -936,7 +1650,21 @@
         "curries",
         "rajma"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/rajma.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "aaf31326ee14332507cde7039e9f65e6db7f2701194522b68404eadf0d7e7149"
+        },
+        "thumb": {
+          "file": "thumbs/rajma.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "84c064f967ebf3409f3091508a8ed999408b856438f87bdd859e12b14a8834dd"
+        }
+      }
     },
     {
       "familyKey": "raw_chicken_meat",
@@ -954,7 +1682,21 @@
         "proteins",
         "raw_chicken_meat"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/raw_chicken_meat.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "5e640d8389fd3447616d4e960fc74a05ae26aa30bc2da0c025ed674f09937645"
+        },
+        "thumb": {
+          "file": "thumbs/raw_chicken_meat.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "99355e780c53e802a6ba3990201363221d50276a01f9a2ff5302f95a62315ae0"
+        }
+      }
     },
     {
       "familyKey": "rice_pulao",
@@ -972,7 +1714,21 @@
         "rice",
         "rice_pulao"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/rice_pulao.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "6e0a2378d44400a6d6443d6637a4b11c62f9089b683650ebdd45e02c7431d20e"
+        },
+        "thumb": {
+          "file": "thumbs/rice_pulao.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "7e634ababe46e8e77921fa55270a1c73d117d37d0471ee0cf62b75aa087a74e9"
+        }
+      }
     },
     {
       "familyKey": "rolls_frankie_wraps",
@@ -990,7 +1746,21 @@
         "handheld",
         "rolls_frankie_wraps"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/rolls_frankie_wraps.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "9d88616c1faa648b0e16267247fd368ffefe5d405e3b76f84c83e530624c4b39"
+        },
+        "thumb": {
+          "file": "thumbs/rolls_frankie_wraps.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "a2ccd40d933e83c529dbf5d03b33ace96db7523e69ea7498a36c386b44d49bb1"
+        }
+      }
     },
     {
       "familyKey": "roti_breads",
@@ -1008,7 +1778,21 @@
         "breads",
         "roti_breads"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/roti_breads.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "decc7fa4cbc752c8f59fe8ed5ccfbe274707bf615ef5590f99e64017758e8320"
+        },
+        "thumb": {
+          "file": "thumbs/roti_breads.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "6ad60bdf0bb1264bcb42257171a48c64b919dd65d631a27ab66d9185efdf5378"
+        }
+      }
     },
     {
       "familyKey": "salad_raita_accompaniments",
@@ -1026,7 +1810,21 @@
         "sides",
         "salad_raita_accompaniments"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/salad_raita_accompaniments.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "270ad40ffca6b5c3857c4d9300292484b05a5d47be0a69b65000bbf5cea28b5b"
+        },
+        "thumb": {
+          "file": "thumbs/salad_raita_accompaniments.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "68dfb492c963a0e878254481302283ae736cc4e9bf8be73ce93a5f73075d60f7"
+        }
+      }
     },
     {
       "familyKey": "samosa_kachori",
@@ -1044,7 +1842,21 @@
         "street_snacks",
         "samosa_kachori"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/samosa_kachori.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "8638a58d2173516ed568429b76c3369807b357582eed64101bb9ee6a4f997705"
+        },
+        "thumb": {
+          "file": "thumbs/samosa_kachori.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "675e11b30fcd57f24527a5d7e23eda82717c92b37f4eefe2ae1014046c92092d"
+        }
+      }
     },
     {
       "familyKey": "sandwich",
@@ -1062,7 +1874,21 @@
         "fast_food",
         "sandwich"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/sandwich.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "b9f47179ad4ec79e5ded9a1600ce59491e9c845c8c0a6a577c7acac6086ec937"
+        },
+        "thumb": {
+          "file": "thumbs/sandwich.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "8ac31a89eafab9824d06feac689c31032047971a6392fb035499f07987c1b6e2"
+        }
+      }
     },
     {
       "familyKey": "seekh_kebab",
@@ -1080,7 +1906,21 @@
         "grills_kebabs",
         "seekh_kebab"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/seekh_kebab.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "334ef027af3deeeeebcf0fa31bd43e0472fb55f5387b22ea7df9462fa4fa4ff1"
+        },
+        "thumb": {
+          "file": "thumbs/seekh_kebab.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "066a9f0c7ced1423d6933206dc0b2d247d10435818855a837bbfc957beeedc4a"
+        }
+      }
     },
     {
       "familyKey": "shawarma",
@@ -1098,7 +1938,21 @@
         "handheld",
         "shawarma"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/shawarma.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "4a7c095de817de6d67d121fadf7009e3c52db1efe93fbf2e4ad46e31067c0b4d"
+        },
+        "thumb": {
+          "file": "thumbs/shawarma.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "572e41cb804d51c61ab58b922295b6ee38ccf680d024a3ee3cd7167509e42b73"
+        }
+      }
     },
     {
       "familyKey": "snacks_generic",
@@ -1116,7 +1970,21 @@
         "street_snacks",
         "snacks_generic"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/snacks_generic.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "627937b8adf009edbbbdb11dbe769634408f407669f8eeca77f6bf3951e018b0"
+        },
+        "thumb": {
+          "file": "thumbs/snacks_generic.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "ccbd1b1b006855673f325ac64ffa4135ba15ebbf3ed3b754f00a110d451dec44"
+        }
+      }
     },
     {
       "familyKey": "soup_nonveg",
@@ -1134,7 +2002,21 @@
         "soups",
         "soup_nonveg"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/soup_nonveg.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "4a27d4be909dd14bc454342231f1eeb6d65e0fed2fc71651779646dda46581d4"
+        },
+        "thumb": {
+          "file": "thumbs/soup_nonveg.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "aee5b66bd124735a4eb58c83749e381aa6fdcef4d3b79f87684eb2c63f448407"
+        }
+      }
     },
     {
       "familyKey": "soup_veg",
@@ -1152,7 +2034,21 @@
         "soups",
         "soup_veg"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/soup_veg.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "d4b2ff2749fbe635c34e96e79850ef337099e302038cde992e7007f4b5ac13c0"
+        },
+        "thumb": {
+          "file": "thumbs/soup_veg.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "c33ea0a29d5feee0bd0d389e6a21d6ecb571907a0f8e978d136fc5ce0603668d"
+        }
+      }
     },
     {
       "familyKey": "south_indian_breakfast",
@@ -1170,7 +2066,21 @@
         "breakfast",
         "south_indian_breakfast"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/south_indian_breakfast.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "ca006549382fd45dd7c349e19660b91c4bef3341d4928118ab8bc5eeccc23725"
+        },
+        "thumb": {
+          "file": "thumbs/south_indian_breakfast.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "14066183cc30a6ad4a487a9e8159d4920da32e802f66317e0445532b06075f6e"
+        }
+      }
     },
     {
       "familyKey": "soya_chaap",
@@ -1188,7 +2098,21 @@
         "handheld",
         "soya_chaap"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/soya_chaap.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "f74b88082333b743827b2a97f44c0a6baf4c0dc95804cc256ab84ce94af8a307"
+        },
+        "thumb": {
+          "file": "thumbs/soya_chaap.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "2d21f0f9c1d90e3fb0f34f7e087379fde7abb482ba897d16d0d7de57fbae9561"
+        }
+      }
     },
     {
       "familyKey": "spring_roll",
@@ -1206,7 +2130,21 @@
         "indo_chinese",
         "spring_roll"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/spring_roll.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "f8de971e8092e022c1ed5b67baa9fa0f466c47c7c06dbe2deeb4b40af717c672"
+        },
+        "thumb": {
+          "file": "thumbs/spring_roll.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "af4534a20714d450eedef8406eca568ca679907e13b2e55bf4143af1c21421cd"
+        }
+      }
     },
     {
       "familyKey": "tacos_quesadilla",
@@ -1223,7 +2161,21 @@
         "fast_food",
         "tacos_quesadilla"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/tacos_quesadilla.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "7d6a98bb3775e2f4ca08c6b31ab9a178fc428b172164f7e7b07b5f52e1dabd40"
+        },
+        "thumb": {
+          "file": "thumbs/tacos_quesadilla.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "33ff02f2db8fbdb93285aca0a2085bb1ecd32b843fe373e40bad26adf515e414"
+        }
+      }
     },
     {
       "familyKey": "tandoori_chicken",
@@ -1241,7 +2193,21 @@
         "grills_kebabs",
         "tandoori_chicken"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/tandoori_chicken.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "7d00829ddbbe3f9768183dd98938d2bf2781104aa2df8d5774c3f23a83eb85c7"
+        },
+        "thumb": {
+          "file": "thumbs/tandoori_chicken.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "fc15ff296af4912979ed79cd1922c02b7cf7efa18e57436fdde1c9f9c75a9af3"
+        }
+      }
     },
     {
       "familyKey": "tea",
@@ -1259,7 +2225,21 @@
         "drinks",
         "tea"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/tea.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "acfd2922cb08ebcaae40dc30840120e7faea7031f83c02c48a715755dce68ec6"
+        },
+        "thumb": {
+          "file": "thumbs/tea.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "e3711939add0b8ff0e55fca0ad96193c67ee8e3691199f8d21298d364215c461"
+        }
+      }
     },
     {
       "familyKey": "thali_combo_meal",
@@ -1277,7 +2257,21 @@
         "meals",
         "thali_combo_meal"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/thali_combo_meal.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "3b68d97ac74223b497ca4605a91efe80e711eb53f40d73768fc54acf6070cc09"
+        },
+        "thumb": {
+          "file": "thumbs/thali_combo_meal.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "97aa6d164d0542dc1a717f4893a04ad91b20558d73c85de805944aa23c6e7413"
+        }
+      }
     },
     {
       "familyKey": "thali_nonveg",
@@ -1295,7 +2289,21 @@
         "meals",
         "thali_nonveg"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/thali_nonveg.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "f2e57a623eec37874ff655e7420f91136e7c98663cc6b69c659a806c40fcb44e"
+        },
+        "thumb": {
+          "file": "thumbs/thali_nonveg.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "53e62e4924e2d57e6da2d601eb8311c29cb5f8c6b56e3b7f8b11fd7108281b92"
+        }
+      }
     },
     {
       "familyKey": "thali_veg",
@@ -1313,7 +2321,21 @@
         "meals",
         "thali_veg"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/thali_veg.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "d92c051551d380558d965e2f373bc195992ef3af7ec53aee0562c4a070fa8ff6"
+        },
+        "thumb": {
+          "file": "thumbs/thali_veg.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "b7f6c11740fb300219db023a69b771034cca5395b1c2ec98fd1125b7bd1c1c60"
+        }
+      }
     },
     {
       "familyKey": "tiffin_plan",
@@ -1331,7 +2353,21 @@
         "meals",
         "tiffin_plan"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/tiffin_plan.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "63973303425b55a1e49afe4b4e3f1ac70771f70170c232833dbb83db0db8b5fd"
+        },
+        "thumb": {
+          "file": "thumbs/tiffin_plan.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "c9d70464d82714dc5a5b2a326e7ab30637ad044fb2cd8c9dc6578a567dbf1aaf"
+        }
+      }
     },
     {
       "familyKey": "tiffin_plan_nonveg",
@@ -1349,7 +2385,21 @@
         "meals",
         "tiffin_plan_nonveg"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/tiffin_plan_nonveg.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "f2e57a623eec37874ff655e7420f91136e7c98663cc6b69c659a806c40fcb44e"
+        },
+        "thumb": {
+          "file": "thumbs/tiffin_plan_nonveg.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "53e62e4924e2d57e6da2d601eb8311c29cb5f8c6b56e3b7f8b11fd7108281b92"
+        }
+      }
     },
     {
       "familyKey": "vada_bajji_punugulu",
@@ -1367,7 +2417,21 @@
         "street_snacks",
         "vada_bajji_punugulu"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/vada_bajji_punugulu.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "0269714b644700bb1dd77021107349929118534a93369d882618bd891e9a3fb8"
+        },
+        "thumb": {
+          "file": "thumbs/vada_bajji_punugulu.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "0912592d350b8cae6b0fc8c53b0c885dcdc89034284acf51c30a90d5f88ae428"
+        }
+      }
     },
     {
       "familyKey": "veg_curry_sabzi",
@@ -1385,7 +2449,21 @@
         "curries",
         "veg_curry_sabzi"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/veg_curry_sabzi.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "abde42c37e01051960532839ed1e54164f2992e7be51743a41abe9f88c1bd740"
+        },
+        "thumb": {
+          "file": "thumbs/veg_curry_sabzi.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "5ef30c59dbb0463b2bff1588595fef00ce2504ba193a1a67eac1caf252a98872"
+        }
+      }
     },
     {
       "familyKey": "veg_manchurian",
@@ -1403,7 +2481,21 @@
         "indo_chinese",
         "veg_manchurian"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/veg_manchurian.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "8b90eebb7e8b21105dc2e0c94607112f38e484a5523d2c4dab485982e5484440"
+        },
+        "thumb": {
+          "file": "thumbs/veg_manchurian.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "6f4d9f9047c0f40f297f3138a92dcb70be4cedd55b1c858a5b4b361937d6bca5"
+        }
+      }
     },
     {
       "familyKey": "veg_starters",
@@ -1421,7 +2513,21 @@
         "indo_chinese",
         "veg_starters"
       ],
-      "assetDepth": 3
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/veg_starters.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "76bf5491aa47babab4a7f22931a2be8c09abe15e542eb524bf22b8769b4e0ebd"
+        },
+        "thumb": {
+          "file": "thumbs/veg_starters.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "f58325b34c037aac638dd549afaaa81d50a861d6ecfa7d842c9470bb914eaea3"
+        }
+      }
     }
   ],
   "hierarchy": {

@@ -1,0 +1,178 @@
+{
+  "version": 1,
+  "catalogVersion": "v1.1",
+  "familyCatalog": "../manifest.json",
+  "familyKey": "indian_sweets",
+  "mediaPathPrefix": ["food", "desserts", "indian_sweets"],
+  "assetDepth": 4,
+  "sourceType": "ai_generated",
+  "generator": "OpenAI image generation",
+  "generatedAt": "2026-08-30",
+  "promptFile": "AI_VARIANT_PROMPTS.md",
+  "budgets": {
+    "fullMaxBytes": 307200,
+    "thumbMaxBytes": 8192
+  },
+  "assets": [
+    {
+      "variantKey": "barfi",
+      "assetKey": "indian_sweets--barfi",
+      "file": "images/indian_sweets--barfi.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 155173,
+      "sha256": "427d4fec690c13ca8421ce1403c842d9fbbca52f6248932c8c07b1ff6e73f407",
+      "renditions": { "thumb": { "file": "thumbs/indian_sweets--barfi.jpg", "width": 160, "height": 120, "bytes": 4855, "sha256": "1b0567607739027662e26e317af3ff23ffb7c0c2be9f119e7fce8fb3202ac7ff" } }
+    },
+    {
+      "variantKey": "cham_cham",
+      "assetKey": "indian_sweets--cham_cham",
+      "file": "images/indian_sweets--cham_cham.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 173793,
+      "sha256": "95688dba681def8061382862115ddc9366a3d32a6a532915422fd4a415df6dbe",
+      "renditions": { "thumb": { "file": "thumbs/indian_sweets--cham_cham.jpg", "width": 160, "height": 120, "bytes": 5565, "sha256": "d0be205aa36dcdc44035d3a96b16a9c31f31f5cd45cbb383f01d7f43a7b4ff2b" } }
+    },
+    {
+      "variantKey": "gajar_halwa",
+      "assetKey": "indian_sweets--gajar_halwa",
+      "file": "images/indian_sweets--gajar_halwa.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 218626,
+      "sha256": "7788ba3a88ec55b03697ca848bf7484096e87a8effaa8a5172e621d184d76e26",
+      "renditions": { "thumb": { "file": "thumbs/indian_sweets--gajar_halwa.jpg", "width": 160, "height": 120, "bytes": 7207, "sha256": "aecafd514a22dd2afb4875aa267d63104d298cb72f2d8b4c1a0a27e4007c2d2e" } }
+    },
+    {
+      "variantKey": "gulab_jamun",
+      "assetKey": "indian_sweets--gulab_jamun",
+      "file": "images/indian_sweets--gulab_jamun.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 201591,
+      "sha256": "cf99eb1ebae4db2641ce7f1483573a6357858bb85ffeb00a79a1ba98e9ac3b84",
+      "renditions": { "thumb": { "file": "thumbs/indian_sweets--gulab_jamun.jpg", "width": 160, "height": 120, "bytes": 6357, "sha256": "418f08f801e36e4d9598e634916a825eb8c07298a74f8e1b42e4c3ac06cd053f" } }
+    },
+    {
+      "variantKey": "imarti",
+      "assetKey": "indian_sweets--imarti",
+      "file": "images/indian_sweets--imarti.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 219918,
+      "sha256": "07ee175d218906fc8a9cdaaf0c9dbae0c8402ed23ca77c47051503b9b0f230b6",
+      "renditions": { "thumb": { "file": "thumbs/indian_sweets--imarti.jpg", "width": 160, "height": 120, "bytes": 7128, "sha256": "773b3bdec0c7e554978fcc834e3c3c2104be844a3333c770c571c2ddf9fcf220" } }
+    },
+    {
+      "variantKey": "jalebi",
+      "assetKey": "indian_sweets--jalebi",
+      "file": "images/indian_sweets--jalebi.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 227217,
+      "sha256": "a45ebad9aaf4f7427702ac7b25f1f86b02d6d09fdfac032f41d57af04904bcf2",
+      "renditions": { "thumb": { "file": "thumbs/indian_sweets--jalebi.jpg", "width": 160, "height": 120, "bytes": 6528, "sha256": "51056d66ff8c68116cd288429b5e1b7b5ccf81a37b8663f8a5b44a9686fd8e56" } }
+    },
+    {
+      "variantKey": "kaju_katli",
+      "assetKey": "indian_sweets--kaju_katli",
+      "file": "images/indian_sweets--kaju_katli.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 190035,
+      "sha256": "d4f6609dba61b4bb247e979542e72dc143ed5088fed83c6e38e2e2c644908fac",
+      "renditions": { "thumb": { "file": "thumbs/indian_sweets--kaju_katli.jpg", "width": 160, "height": 120, "bytes": 4998, "sha256": "01d1a1833c2aad50bcdcdc3e3bf2c8e94367396c41fa4fd01ac0bd418bb9acc5" } }
+    },
+    {
+      "variantKey": "kala_jamun",
+      "assetKey": "indian_sweets--kala_jamun",
+      "file": "images/indian_sweets--kala_jamun.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 184368,
+      "sha256": "678e85c26d421528783888def5b4b8a6375ad4a0afc63ddbc861db40d34a0211",
+      "renditions": { "thumb": { "file": "thumbs/indian_sweets--kala_jamun.jpg", "width": 160, "height": 120, "bytes": 5965, "sha256": "dc4c8079cb726972c69a97329236b096fa2f7f0541359a9e4d70eff773c9eebb" } }
+    },
+    {
+      "variantKey": "ladoo",
+      "assetKey": "indian_sweets--ladoo",
+      "file": "images/indian_sweets--ladoo.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 197388,
+      "sha256": "c00d097cd5338b54dff5b092f94aad54913df531d65a1748dc59148a00a1eeb0",
+      "renditions": { "thumb": { "file": "thumbs/indian_sweets--ladoo.jpg", "width": 160, "height": 120, "bytes": 5973, "sha256": "cf4e8745986c73d8973c34f04c067559dbc21f927685b1abe72266b9dd1495da" } }
+    },
+    {
+      "variantKey": "malai_toast",
+      "assetKey": "indian_sweets--malai_toast",
+      "file": "images/indian_sweets--malai_toast.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 181802,
+      "sha256": "d1c9818fa9c73de6b93e97d5441f661a1a280045651eda5d01e0e1760861fb6a",
+      "renditions": { "thumb": { "file": "thumbs/indian_sweets--malai_toast.jpg", "width": 160, "height": 120, "bytes": 6060, "sha256": "2d2dffb1e06d595c86d2b3aa43628ab4138ee7ae745fdd99199e0ba4e29b01d2" } }
+    },
+    {
+      "variantKey": "malpua",
+      "assetKey": "indian_sweets--malpua",
+      "file": "images/indian_sweets--malpua.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 291751,
+      "sha256": "1ad7d2c1e1ef95b20c8439dcf368621ba7893a5816a8e4678b308a32ef84df1c",
+      "renditions": { "thumb": { "file": "thumbs/indian_sweets--malpua.jpg", "width": 160, "height": 120, "bytes": 6840, "sha256": "8a785ea27eaf7f7069633a4e83e791b85cea95376915f7c722e453954e80220a" } }
+    },
+    {
+      "variantKey": "mohanthal",
+      "assetKey": "indian_sweets--mohanthal",
+      "file": "images/indian_sweets--mohanthal.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 249458,
+      "sha256": "ee333fcce9497e4a6053f1e34dc8e816544bf972dc2d3c29a62435798035932e",
+      "renditions": { "thumb": { "file": "thumbs/indian_sweets--mohanthal.jpg", "width": 160, "height": 120, "bytes": 7336, "sha256": "ea1adceddd2ac923bfc6e266a564b6bff650955bb8fdb596b3787c9931caf491" } }
+    },
+    {
+      "variantKey": "peda",
+      "assetKey": "indian_sweets--peda",
+      "file": "images/indian_sweets--peda.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 182592,
+      "sha256": "7ec70286b6602a224cf5735ecec4cb67859f5225c1bcf277b8a103601c1925f3",
+      "renditions": { "thumb": { "file": "thumbs/indian_sweets--peda.jpg", "width": 160, "height": 120, "bytes": 5432, "sha256": "5c6a1bbad1468403d6e9c9c7d27d53fe43f0db997637642fe26aea1f99a79230" } }
+    },
+    {
+      "variantKey": "rabri",
+      "assetKey": "indian_sweets--rabri",
+      "file": "images/indian_sweets--rabri.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 177486,
+      "sha256": "3441c47784300448b40e690663036336057cdfc09774c0141f2cb27363bf18f7",
+      "renditions": { "thumb": { "file": "thumbs/indian_sweets--rabri.jpg", "width": 160, "height": 120, "bytes": 5742, "sha256": "2391368618704d698a95fc2517444a1753bfdd3a47a13ce4a510d4149e131f28" } }
+    },
+    {
+      "variantKey": "rasgulla",
+      "assetKey": "indian_sweets--rasgulla",
+      "file": "images/indian_sweets--rasgulla.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 117156,
+      "sha256": "8740719f10c015280a18ed8d5a1feaa651e600b762c97bf7860e951268ff3762",
+      "renditions": { "thumb": { "file": "thumbs/indian_sweets--rasgulla.jpg", "width": 160, "height": 120, "bytes": 4598, "sha256": "b7b0984dbf231150d0d79449b46c3d7309f6ef85b88c895c147bf5951e5fe5cd" } }
+    },
+    {
+      "variantKey": "rasmalai",
+      "assetKey": "indian_sweets--rasmalai",
+      "file": "images/indian_sweets--rasmalai.jpg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 161353,
+      "sha256": "04d17d60429005af405ce50d16a619264927ba4bf4cddfe61a42b68bce85e2a6",
+      "renditions": { "thumb": { "file": "thumbs/indian_sweets--rasmalai.jpg", "width": 160, "height": 120, "bytes": 5746, "sha256": "0e9a5cd134447800e764be1743cfba0d900c0a272a3d399b0e735fce469a68c9" } }
+    }
+  ]
+}

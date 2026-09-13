@@ -638,3 +638,25 @@ pack deliberately falls back to the family image at depth 3.
 - License: [Restaurant permission required](https://www.rdpinsta.in/product/28517796/Upma-500-Gms)
 - Usage: Restaurant permission required before public release
 - Final file: `images/south_indian_breakfast.jpg`
+
+## Codex-generated representative food media (2026-09-13)
+
+- Source: Original AI-generated assets from the locally reviewed MOM media bundle
+- Creator/provider: RealList via Codex imagegen for six new MOM assets; Paneer Paratha is a reviewed reuse from the prior Codex-guided Gemini 3.1 Flash Image workflow
+- Usage: Representative menu imagery; not an actual restaurant dish photo and not official brand media
+- Rights review: No third-party source image or restaurant permission dependency recorded
+- Prompt and transformation notes: `variants/AI_VARIANT_PROMPTS.md`
+- Family files: `images/bao_bun.jpg`, `images/cheese_balls.jpg`, `images/onion_rings.jpg`, `images/pizza_pocket.jpg`
+- Variant files: `variants/images/bao_bun--chicken.jpg`, `variants/images/bao_bun--veg.jpg`, `variants/images/fried_chicken_snacks--chicken_nuggets.jpg`, `variants/images/paratha--paneer.jpg`
+
+## Audited fallback replacements and deeper gaps (2026-09-13)
+
+- Source: Original AI-generated assets reviewed locally before catalog integration
+- Creator/provider: RealList via Codex built-in ImageGen
+- Usage: Brand-neutral representative menu imagery; not an actual restaurant dish photo and not official brand media
+- Rights review: No third-party source image or restaurant permission dependency recorded
+- Prompt and transformation notes: `variants/AI_VARIANT_PROMPTS.md`
+- Replaced family files: `images/veg_curry_sabzi.jpg`, `images/fried_chicken_snacks.jpg`, `images/roti_breads.jpg`, `images/juice_sorbet.jpg`
+- New family files: `images/dips_sauces.jpg`, `images/coffee.jpg`, `images/ice_cream_sundae.jpg`, `images/chocolate_dessert.jpg`
+- New variant file: `variants/images/coffee--iced.jpg`
+- `juice_sorbet` specifically uses the reviewed frozen-fruit pop and sorbet-cup master. The earlier drink-glasses candidate was rejected and is not present in this catalog.

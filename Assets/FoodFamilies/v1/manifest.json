@@ -1,8 +1,42 @@
 {
   "version": 1,
   "catalogKey": "food_v1",
-  "generatedFrom": "RealList food-image family pack reviewed 2026-08-18",
+  "catalogVersion": "v1.3",
+  "generatedFrom": "RealList food-image family pack reviewed 2026-08-18; representative generated families and deeper audited gaps reviewed 2026-09-13",
   "families": [
+    {
+      "familyKey": "bao_bun",
+      "file": "images/bao_bun.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "de6d21404c8bf828e3fd6908754aa987618821f6564f9e274cc9cb741df5b0d6",
+      "sourcePage": "variants/AI_VARIANT_PROMPTS.md",
+      "artist": "RealList via Codex imagegen",
+      "license": "RealList original AI-generated asset",
+      "licenseUrl": "",
+      "permissionRequired": false,
+      "representation": "representative_not_official",
+      "mediaPath": [
+        "food",
+        "handheld",
+        "bao_bun"
+      ],
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/bao_bun.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "b7ce9057770b08e9d58c87a9aec21cdf4e736b88e2a6676e991bdb3add7e930b"
+        },
+        "thumb": {
+          "file": "thumbs/bao_bun.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "1508d0dabf11480b86b574d108e2cadd03bb23ed67ffcfd94cb7f2fb0d90732f"
+        }
+      }
+    },
     {
       "familyKey": "biryani",
       "file": "images/biryani.jpg",
@@ -128,6 +162,39 @@
           "width": 160,
           "height": 120,
           "sha256": "d7bef7174d4ebc4e26148cb82d52c2826ad51c2b67db6acad18881b06c03914b"
+        }
+      }
+    },
+    {
+      "familyKey": "cheese_balls",
+      "file": "images/cheese_balls.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "2c0cf4e9d052790d9662e9668d4c7b6071975da48dbbd3128d164e016de61c4a",
+      "sourcePage": "variants/AI_VARIANT_PROMPTS.md",
+      "artist": "RealList via Codex imagegen",
+      "license": "RealList original AI-generated asset",
+      "licenseUrl": "",
+      "permissionRequired": false,
+      "representation": "representative_not_official",
+      "mediaPath": [
+        "food",
+        "street_snacks",
+        "cheese_balls"
+      ],
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/cheese_balls.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "76a240ff26a508b121024b1d673b8cfceea5bdb33752f0a841b1a9a6bcfb12a8"
+        },
+        "thumb": {
+          "file": "thumbs/cheese_balls.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "04fcac81863972896dfe15b4be5f90db38dd8b8d9613a145e25930409deacfb2"
         }
       }
     },
@@ -356,6 +423,39 @@
       }
     },
     {
+      "familyKey": "chocolate_dessert",
+      "file": "images/chocolate_dessert.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "d8941e95044cba9ec8ecf229df7dc36bede310163ed041e3f067f54a1df306f9",
+      "sourcePage": "variants/AI_VARIANT_PROMPTS.md",
+      "artist": "RealList via Codex imagegen",
+      "license": "RealList original AI-generated asset",
+      "licenseUrl": "",
+      "permissionRequired": false,
+      "representation": "representative_not_official",
+      "mediaPath": [
+        "food",
+        "desserts",
+        "chocolate_dessert"
+      ],
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/chocolate_dessert.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "9d4757290ab7a74cd9f7063d8c721021410456a7144c05c15f1620cc6839ae09"
+        },
+        "thumb": {
+          "file": "thumbs/chocolate_dessert.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "b158b7600cf099a282e38c6f442eb452a60ecba9b34fb4d91a447b491a52298e"
+        }
+      }
+    },
+    {
       "familyKey": "chole_chana",
       "file": "images/chole_chana.jpg",
       "width": 1200,
@@ -384,6 +484,39 @@
           "width": 160,
           "height": 120,
           "sha256": "3d4d316910c49fceda1338bbcaff3ea446f9f2e906c39c5380c65e337098750c"
+        }
+      }
+    },
+    {
+      "familyKey": "coffee",
+      "file": "images/coffee.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "b438f51eb1a36a964db6c19763ffd9ae472c138f6adf391190d4ca4a09952aa6",
+      "sourcePage": "variants/AI_VARIANT_PROMPTS.md",
+      "artist": "RealList via Codex imagegen",
+      "license": "RealList original AI-generated asset",
+      "licenseUrl": "",
+      "permissionRequired": false,
+      "representation": "representative_not_official",
+      "mediaPath": [
+        "food",
+        "drinks",
+        "coffee"
+      ],
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/coffee.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "5edb8c0adfac96504883097ed852e997ec4e71f20745a47b6f14e09ffaafa0ad"
+        },
+        "thumb": {
+          "file": "thumbs/coffee.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "64df75975705c5795b423f9003a16bf9273bcd8f0f0811be2a247291725703d8"
         }
       }
     },
@@ -543,6 +676,39 @@
           "width": 160,
           "height": 120,
           "sha256": "5340f1a54374fd8c275d0b940665565b907d6b22667b00b1eb96a0d32594ed5b"
+        }
+      }
+    },
+    {
+      "familyKey": "dips_sauces",
+      "file": "images/dips_sauces.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "dca9464ef8b7da3bb5f08857d45e34f347ea15461fa3c1475acc3ba85747be47",
+      "sourcePage": "variants/AI_VARIANT_PROMPTS.md",
+      "artist": "RealList via Codex imagegen",
+      "license": "RealList original AI-generated asset",
+      "licenseUrl": "",
+      "permissionRequired": false,
+      "representation": "representative_not_official",
+      "mediaPath": [
+        "food",
+        "sides",
+        "dips_sauces"
+      ],
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/dips_sauces.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "45da002d676ae1eaf0575c33c110a5a0ada70a20dc1e9b7bca2e58482d09ae4b"
+        },
+        "thumb": {
+          "file": "thumbs/dips_sauces.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "071d40f871c4163346fd631a60addce27f2f7ceed0820aa2e720706157efe662"
         }
       }
     },
@@ -711,12 +877,13 @@
       "file": "images/fried_chicken_snacks.jpg",
       "width": 1200,
       "height": 900,
-      "sha256": "54fda39faac772403037355982fef20f321e03a31160a8de5e7459febf49d791",
-      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fried_chicken_pieces_coated_in_sauce_with_sesame_seeds_2025.jpg",
-      "artist": "Faisal Ahammad",
-      "license": "CC0",
-      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sha256": "d894e55f7f88a2dc6d2683b1d84cc76a6b27c33f33c493aa427ad5c270a6c5d9",
+      "sourcePage": "variants/AI_VARIANT_PROMPTS.md",
+      "artist": "RealList via Codex imagegen",
+      "license": "RealList original AI-generated asset",
+      "licenseUrl": "",
       "permissionRequired": false,
+      "representation": "representative_not_official",
       "mediaPath": [
         "food",
         "grills_kebabs",
@@ -728,13 +895,13 @@
           "file": "sections/fried_chicken_snacks.jpg",
           "width": 640,
           "height": 360,
-          "sha256": "fa03af47268c0fb04238a6c73c497946625e6334153cdfb6a3c02477c05a389d"
+          "sha256": "ab446f418a05cbe119481a0db4ab7dc63d2f5524aace5c26ba999e065d45636c"
         },
         "thumb": {
           "file": "thumbs/fried_chicken_snacks.jpg",
           "width": 160,
           "height": 120,
-          "sha256": "73c43e1514b61be2dd49d7d8af5e8e24f20db45d033b8b9bf4fabf592b8cf218"
+          "sha256": "6160f627184bf33a6b75be51b9da512c3c342df33aa4b6f86cb25d7794dd70aa"
         }
       }
     },
@@ -867,6 +1034,39 @@
       }
     },
     {
+      "familyKey": "ice_cream_sundae",
+      "file": "images/ice_cream_sundae.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "f0eff51f93ce51dc0afab82991dea6cf31fb1f9ab33c616836c8401525319ee7",
+      "sourcePage": "variants/AI_VARIANT_PROMPTS.md",
+      "artist": "RealList via Codex imagegen",
+      "license": "RealList original AI-generated asset",
+      "licenseUrl": "",
+      "permissionRequired": false,
+      "representation": "representative_not_official",
+      "mediaPath": [
+        "food",
+        "desserts",
+        "ice_cream_sundae"
+      ],
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/ice_cream_sundae.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "a2278bf913c166fe3399cbdce663dc13749088fe8e45805523a2f36d1ccc00c0"
+        },
+        "thumb": {
+          "file": "thumbs/ice_cream_sundae.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "45afd76548c2b42dab1164b1a337aae72eb73c286b17388a07c78d0f40756d90"
+        }
+      }
+    },
+    {
       "familyKey": "idli",
       "file": "images/idli.jpg",
       "width": 1200,
@@ -935,12 +1135,13 @@
       "file": "images/juice_sorbet.jpg",
       "width": 1200,
       "height": 900,
-      "sha256": "fbe1074b9e68a6819f7bacbe0830b3162edaa56a3e02279ad2a417f76ac51ce6",
-      "sourcePage": "https://commons.wikimedia.org/wiki/File:DSCF1010_A_vendor_prepares_colorful_fresh_fruit_drinks_and_juices_at_a_busy_outdoor_market_stall_with_jars_of_sliced_fruit_and_containers_of_vibrant_beverages_lined_up_on_the_counter.jpg",
-      "artist": "PattayaPatrol",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "f7f582d780b19f3392d6890bf9780af6fdff315e1fbe0792de9cd5ee3a6bf9b6",
+      "sourcePage": "variants/AI_VARIANT_PROMPTS.md",
+      "artist": "RealList via Codex imagegen",
+      "license": "RealList original AI-generated asset",
+      "licenseUrl": "",
       "permissionRequired": false,
+      "representation": "representative_not_official",
       "mediaPath": [
         "food",
         "drinks",
@@ -952,13 +1153,13 @@
           "file": "sections/juice_sorbet.jpg",
           "width": 640,
           "height": 360,
-          "sha256": "8e6b0e028616afe003c852572702665af8a11a02c56b14d001ee5627fc490faf"
+          "sha256": "23418e885217ce124701cc3fa6f9381e8467b7221697661b907ca1a5a689ad4f"
         },
         "thumb": {
           "file": "thumbs/juice_sorbet.jpg",
           "width": 160,
           "height": 120,
-          "sha256": "579a6acd049640e4d435b1fbcfaee1dabfcd2848f2bb0be1c993c5645f8eb16c"
+          "sha256": "27fc5f14d2975feb0bd56a825e1081437117e40113b14640ab7b3a6d35dad8a7"
         }
       }
     },
@@ -1347,6 +1548,39 @@
       }
     },
     {
+      "familyKey": "onion_rings",
+      "file": "images/onion_rings.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "e3596ee72df7831e3c86cd0a1148e96065e74bd813ce7d0e41a6f3e94e491f47",
+      "sourcePage": "variants/AI_VARIANT_PROMPTS.md",
+      "artist": "RealList via Codex imagegen",
+      "license": "RealList original AI-generated asset",
+      "licenseUrl": "",
+      "permissionRequired": false,
+      "representation": "representative_not_official",
+      "mediaPath": [
+        "food",
+        "street_snacks",
+        "onion_rings"
+      ],
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/onion_rings.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "708a5e6be84662e2beb7ab4444d5ab15da13488e7735b9c462e95ae0d5c82531"
+        },
+        "thumb": {
+          "file": "thumbs/onion_rings.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "0dc78aec89355b9fb598ea7f1d051b541ea44706a5299cea152ac2fa8568998f"
+        }
+      }
+    },
+    {
       "familyKey": "pakora_fried_snacks",
       "file": "images/pakora_fried_snacks.jpg",
       "width": 1200,
@@ -1571,6 +1805,39 @@
       }
     },
     {
+      "familyKey": "pizza_pocket",
+      "file": "images/pizza_pocket.jpg",
+      "width": 1200,
+      "height": 900,
+      "sha256": "f365e7d83878be6a671c3831e3f9fc33b13738a8d1f7e9a27132c1b2957eaa66",
+      "sourcePage": "variants/AI_VARIANT_PROMPTS.md",
+      "artist": "RealList via Codex imagegen",
+      "license": "RealList original AI-generated asset",
+      "licenseUrl": "",
+      "permissionRequired": false,
+      "representation": "representative_not_official",
+      "mediaPath": [
+        "food",
+        "handheld",
+        "pizza_pocket"
+      ],
+      "assetDepth": 3,
+      "renditions": {
+        "section": {
+          "file": "sections/pizza_pocket.jpg",
+          "width": 640,
+          "height": 360,
+          "sha256": "415dbf2941a48557f744fdb7aeb86a80391fad98a4cceb354864d88c98536b9f"
+        },
+        "thumb": {
+          "file": "thumbs/pizza_pocket.jpg",
+          "width": 160,
+          "height": 120,
+          "sha256": "0872caf4e81007072cc44ca20465d69b872b6b974ebcacb244fb735a9f2556c1"
+        }
+      }
+    },
+    {
       "familyKey": "pizza_toppings",
       "file": "images/pizza_toppings.jpg",
       "width": 1200,
@@ -1767,12 +2034,13 @@
       "file": "images/roti_breads.jpg",
       "width": 1200,
       "height": 900,
-      "sha256": "0e13881bc46329814bfe741aca46e512fd8cbfb861c278dccece69948b758dc5",
-      "sourcePage": "https://commons.wikimedia.org/wiki/File:Flaky_layered_chapati_served_at_The_Well_in_Karen,_Nairobi.jpg",
-      "artist": "Lebu Ayiga",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "1998a6283c738cfab057ce7ffc754d310b6e3caa16ce626003ed926cc4f9d0a8",
+      "sourcePage": "variants/AI_VARIANT_PROMPTS.md",
+      "artist": "RealList via Codex imagegen",
+      "license": "RealList original AI-generated asset",
+      "licenseUrl": "",
       "permissionRequired": false,
+      "representation": "representative_not_official",
       "mediaPath": [
         "food",
         "breads",
@@ -1784,13 +2052,13 @@
           "file": "sections/roti_breads.jpg",
           "width": 640,
           "height": 360,
-          "sha256": "decc7fa4cbc752c8f59fe8ed5ccfbe274707bf615ef5590f99e64017758e8320"
+          "sha256": "456c5746eab39b5aa24b404ffdeaa4dc7913900099ce2cb553812605bba6cf37"
         },
         "thumb": {
           "file": "thumbs/roti_breads.jpg",
           "width": 160,
           "height": 120,
-          "sha256": "6ad60bdf0bb1264bcb42257171a48c64b919dd65d631a27ab66d9185efdf5378"
+          "sha256": "c1235fad4e9391e32ac83a18e296e36cf28ca3aaf27ddda463ba66adb9b9cdb1"
         }
       }
     },
@@ -2438,12 +2706,13 @@
       "file": "images/veg_curry_sabzi.jpg",
       "width": 1200,
       "height": 900,
-      "sha256": "8c45fb560cc441e919605133948ff984b6badadff98d2b94842203ddf78cc9c3",
-      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aubergine_%26_Potato_curry_(506336160).jpg",
-      "artist": "rovingI",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sha256": "d71a7d0d228951ebd344baa0b818ee927cbd98c96d8bfdc0c44f51768f3c76d6",
+      "sourcePage": "variants/AI_VARIANT_PROMPTS.md",
+      "artist": "RealList via Codex imagegen",
+      "license": "RealList original AI-generated asset",
+      "licenseUrl": "",
       "permissionRequired": false,
+      "representation": "representative_not_official",
       "mediaPath": [
         "food",
         "curries",
@@ -2455,13 +2724,13 @@
           "file": "sections/veg_curry_sabzi.jpg",
           "width": 640,
           "height": 360,
-          "sha256": "abde42c37e01051960532839ed1e54164f2992e7be51743a41abe9f88c1bd740"
+          "sha256": "7dea31cbe4110026d9d2da7ebd892a6d036ea77cd1979e2ecf5a396c2183f67e"
         },
         "thumb": {
           "file": "thumbs/veg_curry_sabzi.jpg",
           "width": 160,
           "height": 120,
-          "sha256": "5ef30c59dbb0463b2bff1588595fef00ce2504ba193a1a67eac1caf252a98872"
+          "sha256": "5e8ff712ef55902d966af3caef817de8ddaa079f17f63dfd6613975672b343b0"
         }
       }
     },
